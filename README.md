@@ -10,8 +10,12 @@ A jornada é longa, grandes são os conhecimentos, mas vale a pena escrever sobr
 
 ## Linguagens
 
+<<<<<<< HEAD
 [![GsoGabriel GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gsogabriel)](https://github.com/gsogabriel/)
 
+=======
+[![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gsogabriel)](https://github.com/gsogabriel/github-readme-stats)
+>>>>>>> 61a7bd0ff369698b9be7f5a74e4f6e438a5b314e
 
 
 ## Índice
