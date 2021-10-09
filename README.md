@@ -10,8 +10,7 @@ A jornada é longa, grandes são os conhecimentos, mas vale a pena escrever sobr
 
 ## Linguagens
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=gsogabriel
-
+[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=NOMEGIT)](https://github.com/NOMEGIT/github-readme-stats)
 
 
 ## Índice
