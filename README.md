@@ -15,7 +15,7 @@ A jornada é longa, grandes são os conhecimentos, mas vale a pena escrever sobr
 
 ## Índice
 
-1. Internet
+1. [Internet](https://github.com/GsoGabriel/backend/tree/main/1. Internet)
 
 2. Conhecimento Básico em FrontEnd
 
@@ -53,6 +53,10 @@ A jornada é longa, grandes são os conhecimentos, mas vale a pena escrever sobr
 
 ## Log de Atualização
 
+###### 10 de Outubro de 2021
+
+> * Adicionado o artigo de "Como funciona a internet" (ainda incompleto)
+
 ###### 09 de Outubro de 2021
 
 > * Adição da referência de trajetória.
@@ -64,8 +68,9 @@ A jornada é longa, grandes são os conhecimentos, mas vale a pena escrever sobr
 
 
 
-## Referência e trajetória
+## Referência de trajetória
 
 Minha referência de trajetória está no Roadmap.sh
 
 [Learn to become a modern backend developer (roadmap.sh)](https://roadmap.sh/backend)
+
