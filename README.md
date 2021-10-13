@@ -1,6 +1,6 @@
 # Minha jornada BackEnd
 
-> Última atualização: 09/10/2021
+> Última atualização: 13/10/2021
 
 Olá, mundo! Meu nome é Gabriel e nesse repositório eu vou adicionar artigos no formato Markdown sobre tudo o que tenho aprendido na minha jornada como desenvolvedor BackEnd.
 
@@ -51,20 +51,17 @@ A jornada é longa, grandes são os conhecimentos, mas vale a pena escrever sobr
 
 
 
-## Log de Atualização
+## Última Atualização
 
-###### 10 de Outubro de 2021
+###### 13 de Outubro de 2021
 
-> * Adicionado o artigo de "Como funciona a internet" (ainda incompleto)
+> - Atualizado o artigo de "Como funciona a internet"
 
-###### 09 de Outubro de 2021
 
-> * Adição da referência de trajetória.
-> * Ajuste da sessão de linguagens.
 
-###### 08 de Outubro de 2021
-
-> - Criação do README de apresentação.
+```
+Log de atualizações: https://github.com/GsoGabriel/backend/tree/main/log
+```
 
 
 

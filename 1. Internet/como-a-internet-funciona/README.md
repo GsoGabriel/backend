@@ -14,11 +14,17 @@ A internet é uma conexão mundial, um lugar onde podemos transferir dados e mí
 
 > Endereços de IP público são acessíveis a toda internet. Os endereços de IP privados são acessíveis a somente um grupo seleto de máquinas, seja numa empresa, ou em casa. 
 
+
+
 ## Então, como tudo isso funciona?
 
-O TCP e o IP funcionam juntos, sendo eles os principais responsáveis pelo envio e pela recepção das mensagens entre as máquinas. 
+Quando um cliente faz uma requisição, ele envia informações para o provedor de internet(ISP), o provedor envia a informação ao endereço de IP informado e logo depois a requisição é retornada pelo mesmo caminho de volta ao cliente. 
 
+Como eles sabem todos esses caminhos? Os roteadores trabalham para que tudo seja enviado aos endereços corretos. Os roteadores estão vários pontos, direcionando ao local certo até chegar ao endereço de IP informado. O TCP faz com que essas informações cheguem seguras, de forma que não haja perda de pacotes durante o percurso, ou que não haja delay negativo, afetando, dessa forma, a qualidade dos pacotes em transferência. 
 
+As requisições enviadas aos provedores são feitas através do DNS. Para aprender mais, deixo o link para o artigo que explica sobre DNS. ()
+
+As respostas dos servidores obedecem ao protocolo HTTP. Para aprender mais, deixo o link para o artigo que explica sobre o protocolo HTTP. ()
 
 
 
